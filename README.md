@@ -47,3 +47,6 @@ Access the application: Open your web browser and navigate to ```http://localhos
 - Push to the branch:
 - ```git push origin feature-branch```
 - Create a pull request.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.  
